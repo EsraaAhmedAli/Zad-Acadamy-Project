@@ -1,0 +1,104 @@
+.m{
+    text-decoration: none;
+    color: white;
+    text-align: right;
+}
+.d2{
+    background-color:#D7D7D7;
+    height: 100px; 
+    width: 1265px;
+    padding: 0cm;
+}
+.v1{
+    height: 300px;
+    width:300px;
+}
+.h1{
+    text-align: right;
+}
+.l1,.l2,.l3,.l4,.l5
+{
+    text-decoration: none;
+    color: black;
+    text-align: right;
+}
+.i1{
+    height: 150px;
+    width: 300px;
+}
+.o{
+    text-align: right;
+    font-size: 25px;
+    padding: 1cm;
+}
+.u7{
+    text-align: right;
+}
+.pp{
+    text-align: right;
+}
+.uu{
+    text-align: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    padding: 1cm;
+}
+#e4{
+    padding-left: 2cm;
+}
+.gogo1{
+    border: radius 25px; 
+    border-color: rgb(185, 111, 57);
+    height: 250px;
+    width:250px ;
+}
+#rr{
+    background-color: #3C393A;
+    height: 300px;
+    width: 500px;
+    color: white;
+    font-size: large;
+    font-weight: 1000;
+    text-align: right;
+}
+.card{
+    margin:1.5cm;
+    border-radius: 1cm;
+    background-color:#9D6E3B;
+    
+}
+.dg{ 
+    background: #D7D7D7; 
+    height:75px; 
+    width: 1550px; 
+} 
+.ug{ 
+    list-style-type: none; 
+     float:left; 
+     margin-left: 20px; 
+     margin-top: 20px; 
+} 
+.ug li{ 
+    display:inline-block; 
+    padding: 5px; 
+    font-size: 13px; 
+    
+} 
+.ug a{ 
+    text-decoration: none; 
+    color: black; 
+} 
+.ug a:hover{ 
+    color:black; 
+} 
+.lg{ 
+    font-size: 25px; 
+    float: right; 
+    margin-right: 208px; 
+    margin-top: 20px; 
+}
+
+.g{
+    width: 1300px;
+}

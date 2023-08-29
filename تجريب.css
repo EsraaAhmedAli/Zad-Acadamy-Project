@@ -1,0 +1,30 @@
+.dg{ 
+    background: #D7D7D7; 
+    height:85px; 
+    width: 1530px; 
+} 
+.ug{ 
+    list-style-type: none; 
+     float:left; 
+     margin-left: 200px; 
+     margin-top: 20px; 
+} 
+.ug li{ 
+    display:inline-block; 
+    padding: 5px; 
+    font-size: 13px; 
+    
+} 
+.ug a{ 
+    text-decoration: none; 
+    color: black; 
+} 
+.ug a:hover{ 
+    color:black; 
+} 
+.lg{ 
+    font-size: 25px; 
+    float: right; 
+    margin-right: 208px; 
+    margin-top: 20px; 
+}
