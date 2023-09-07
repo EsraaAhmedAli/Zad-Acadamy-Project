@@ -47,5 +47,5 @@ We're excited to hear from you and are here to assist you every step of the way!
 ---
 
 <p align="center">
-  Crafted with ❤️ by the Online Supermarket Team
+  Crafted with ❤️ by the Zad Academy Team
 </p>
